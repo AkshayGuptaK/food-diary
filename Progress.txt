@@ -1,0 +1,54 @@
+0.1
+Console version
+Completed 5th May, 2018
+
+0.2
+Initial Tkinter GUI version
+Completed 17th May, 2018
+
+0.3:
+Pie and Bar Charts Added
+Completed 30th May, 2018
+
+0.31:
+Fixes to ResetDatabase script
+Executable compiled with Py2exe with Python 3.4
+Completed 6th June, 2018
+
+0.32:
+Fixed bugs relating to display issues on Windows 7, Vista and Mac OSX
+Completed 19th June, 2018
+
+0.33:
+Cleaning up of confusing namespaces, adding better commenting and docstrings
+Fixed a variety of corner case bugs
+Completed 3rd July, 2018
+
+0.34:
+Introduced new schema and functions to handle planned features for exercise logging
+Completed 10th July, 2018
+
+0.35:
+Executable compiled with cx_freeze which is compatible with Python 3.5+ 
+Completed 13th July, 2018
+
+Version 0.4:
+Try-Except-Else-Finally in exception handling in CalendarWidget and Main
+Handle SQL errors caused by direct editing of database
+Fix OK Button in ResetDatabase
+Scrollbar buttons greyed out until clicked
+Fix 0.005 and smaller values display bug
+Weekly Stats should initialize to week ending with current day
+
+Version 0.5:
+Update namespaces and formatting to PEP8 standard
+Pie Chart in Food Catalogue
+Use Numpy to power data module
+Database Port Script
+Exercise Catalogue, Log, and Stats
+Meal Database and Usability
+Dish table
+Weight record and target calculation
+Multiple instances of app open cause interface misbehavior
+Windows sometimes disappear behind prev open windows
+Icon
